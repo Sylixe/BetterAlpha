@@ -3,8 +3,8 @@
 A Modification of Minecraft version b1.1_02, adding bunch of Quality of Life feature.
 
 ## Downloads
-- MultiMC / PrismMC Instance: 
-- Raw Mod: 
+- MultiMC / PrismMC Instance: [Here](https://github.com/Sylixe/BetterAlpha/raw/main/Better%20Alpha%201.0.0%20Instance.zip)
+- Raw Mod: [Here](https://github.com/Sylixe/BetterAlpha/raw/main/Better%20Alpha%201.0.0%20Raw.zip)
 
 ## Importing
 - Right click and click create instance, or click add instance.
